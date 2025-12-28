@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ilgizsabu&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
-<h1 align="center">Привет 👋, я Saburo</h1>
+<h1 align="center">Hi👋, I`am Ilgiz</h1>
 <h3 align="center">Frontend Developer • React / TypeScript • люблю чистый UI и быстрые интерфейсы</h3>
 
 ### 🧩 Немного обо мне
@@ -15,7 +15,7 @@
 - 🌱 В процессе: **Node.js + Docker** (чтобы быть увереннее в fullstack и деплое)
 - 🧠 Интересы: **Data Engineering** (dbt, пайплайны, основы MLOps)
 - 💬 Можно спрашивать про: **React, TypeScript, архитектуру компонентов, сборку (Webpack)**
-- 📫 Связаться: **YOUR_EMAIL**
+- 📫 Связаться: **Barysaburov@gmail.com**
 - ⚡ Фан-факт: **люблю превращать “хаос в макете” в аккуратный UI 😄**
 
 ---
@@ -69,6 +69,27 @@
   </a>
   <a href="https://bulma.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bulma.png" alt="git" width="42" height="42"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="git" width="42" height="42"/>
+  </a>
+  <a href="https://vite-docs-ru.vercel.app/guide/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="git" width="42" height="42"/>
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="git" width="42" height="42"/>
+  </a>
+  <a href="https://www.mongodb.com/?jmp=sp-ref" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="git" width="42" height="42"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="git" width="42" height="42"/>
+  </a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" alt="git" width="42" height="42"/>
+  </a>
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/babel.png" alt="git" width="42" height="42"/>
   </a>
 </p>
 
