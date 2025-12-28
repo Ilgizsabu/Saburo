@@ -12,7 +12,7 @@
 ### 🧩 About me
 
 - 🔭 Currently working on: **React/TypeScript frontend projects** (UI, state management, integrations, forms)
-- 🌱 Currently learning: **Node.js + MongoDB** (to get stronger in fullstack and deployment)
+- 🌱 Currently learning: **Node.js + MongoDB + Docker** (to get stronger in fullstack and deployment)
 - 🧠 Interested in: **Data Engineering** (dbt, pipelines, MLOps fundamentals)
 - 💬 Ask me about: **React, TypeScript, component architecture, build tools (Webpack)**
 - 📫 Reach me at: **barysaburov@gmail.com**
